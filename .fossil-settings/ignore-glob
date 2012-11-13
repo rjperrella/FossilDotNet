@@ -1,0 +1,7 @@
+*.obj
+*.exe
+*.pdb
+*.bin
+*.dll
+*/bin/Debug/*
+*/obj/*
