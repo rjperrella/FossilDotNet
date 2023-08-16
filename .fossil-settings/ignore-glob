@@ -10,7 +10,12 @@
 *.pass
 *.secret
 *.temp
-
+######
+# LaTeX intermediate
+#####
+*.toc
+*.out
+*.tmp
 
 #################
 ## Eclipse
