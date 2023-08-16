@@ -5,3 +5,8 @@
 *.dll
 */bin/Debug/*
 */obj/*
+*.tmp
+*.log
+*.pass
+*.secret
+*.temp
